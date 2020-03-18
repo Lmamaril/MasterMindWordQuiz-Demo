@@ -3,4 +3,4 @@
 Code will not be posted until the class is over (Currently being graded).
 The Heroku Link is below: 
 [https://amy-leah-webdev-spr-a2.herokuapp.com/]
-![alt text][quiz-pic.png]
+[logo]: https://github.com/Lmamaril/MasterMindWordQuiz-Demo/blob/master/quiz-pic.png
