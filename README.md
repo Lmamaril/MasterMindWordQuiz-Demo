@@ -9,6 +9,5 @@ A Word guessing game built a React/Redux in a two person team.
 The Heroku Link is below: 
 [https://amy-leah-webdev-spr-a2.herokuapp.com/]
 
-<h6>Code will not be posted until the class is over (Currently being graded)</h6>
 
 ![Quiz Pic](quiz-pic.png) 
